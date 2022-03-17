@@ -5,6 +5,8 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Assignments
 uid: 7ea62258-95c2-c1b4-1b22-c2b908e21e58
+video_metadata:
+  youtube_id: null
 ---
 
 There are two kinds of assignments: Weekly exercises that are not to be handed in for grading but are intended to prepare students for the exams, and problem sets that are to be handed in and graded.
@@ -39,7 +41,7 @@ Problem Set 0
 {{< tdclose >}}
 {{< tdopen >}}
 Sec. 1; 2. Give answers only. Your answers to (j), (k), and (l) should be "yes" or "no." Your answers to the others should be one of the following:  
-⇒, {{< resource 5e12e0e9-3d08-bc92-b9c6-23a91291e57a "" >}}, ⇔, ⊂, ⊃, =  
+⇒, {{< resource "5e12e0e9-3d08-bc92-b9c6-23a91291e57a" >}}, ⇔, ⊂, ⊃, =  
   
 Sec. 1; 5. Give answers only  
   
